@@ -37,8 +37,7 @@ The analysis is powered by 8 interconnected datasets, each representing a critic
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard_Preview](./Dashboard Preview.png)  
-*Be sure to upload a screenshot named `dashboard_preview.png` to showcase your work!*
+Dashboard Preview.png
 
 ## 🧠 Data Model Highlights
 
