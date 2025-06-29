@@ -59,7 +59,8 @@ The analysis is powered by 8 interconnected datasets, each representing a critic
 
 ## 🙋‍♂️ About Me
 
-I'm **Satyam Gupta**, an aspiring Data Analyst with a passion for transforming data into insights. Currently working as an Office Executive, I'm actively seeking opportunities in **Data Science** or **Business Intelligence** roles. Check out more of my work on [GitHub](#) and feel free to connect!
+I’m Satyam Gupta, an aspiring Data Analyst with a strong foundation in Python, SQL, Power BI, and machine learning. I’m passionate about turning raw data into meaningful insights and actionable visualizations that drive smarter decision-making.
 
+🎯 Currently working as an Office Executive at Hardicon Limited, I’m actively transitioning into the world of Data Science and Business Intelligence. My projects focus on building clean, interactive dashboards, exploring patterns in structured datasets, and applying statistical reasoning to real-world challenges.
 ---
 
