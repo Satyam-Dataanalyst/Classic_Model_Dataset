@@ -36,8 +36,7 @@ The analysis is powered by 8 interconnected datasets, each representing a critic
 - **Interactive Slicers**: Filter data dynamically by year, country, product line, and more
 
 ## 🖼️ Dashboard Preview
-
-Dashboard Preview.png
+![Dashboard Preview](./Dashboard_preview.png)
 
 ## 🧠 Data Model Highlights
 
