@@ -47,7 +47,7 @@ The analysis is powered by 8 interconnected datasets, each representing a critic
 ## 💡 How to Use
 
 1. Clone or download the repository.
-2. Open `SalesDashboard.pbix` in Power BI Desktop.
+2. Open `classic_models_dataset_dashboard.pbix` in Power BI Desktop.
 3. Explore the dashboard using built-in filters and slicers.
 4. Modify or extend the model based on your analytical needs.
 
